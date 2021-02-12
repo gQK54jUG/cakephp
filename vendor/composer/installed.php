@@ -1,24 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '4.2.1',
-    'version' => '4.2.1.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => '45fc99022b231b06c003af747a46ffaf2c8517f5',
+    'reference' => 'adb66a58d5b4673a7b6d0b5b855aec9fcf6ac4a9',
     'name' => 'cakephp/app',
   ),
   'versions' => 
   array (
     'cakephp/app' => 
     array (
-      'pretty_version' => '4.2.1',
-      'version' => '4.2.1.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => '45fc99022b231b06c003af747a46ffaf2c8517f5',
+      'reference' => 'adb66a58d5b4673a7b6d0b5b855aec9fcf6ac4a9',
     ),
     'cakephp/bake' => 
     array (
@@ -56,12 +56,12 @@
     ),
     'cakephp/chronos' => 
     array (
-      'pretty_version' => '2.1.0',
-      'version' => '2.1.0.0',
+      'pretty_version' => '2.1.1',
+      'version' => '2.1.1.0',
       'aliases' => 
       array (
       ),
-      'reference' => '3f119d1eb8105ed2c43bb72e8fc5c78487620089',
+      'reference' => '5929b743aec34b3a2f74c70c383706f7f12e2725',
     ),
     'cakephp/collection' => 
     array (
@@ -498,12 +498,12 @@
     ),
     'phpunit/phpunit' => 
     array (
-      'pretty_version' => '9.5.1',
-      'version' => '9.5.1.0',
+      'pretty_version' => '9.5.2',
+      'version' => '9.5.2.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'e7bdf4085de85a825f4424eae52c99a1cec2f360',
+      'reference' => 'f661659747f2f87f9e72095bb207bceb0f151cb4',
     ),
     'psr/container' => 
     array (
@@ -814,8 +814,8 @@
     ),
     'symfony/config' => 
     array (
-      'pretty_version' => 'v5.2.2',
-      'version' => '5.2.2.0',
+      'pretty_version' => 'v5.2.3',
+      'version' => '5.2.3.0',
       'aliases' => 
       array (
       ),
@@ -823,12 +823,12 @@
     ),
     'symfony/console' => 
     array (
-      'pretty_version' => 'v5.2.2',
-      'version' => '5.2.2.0',
+      'pretty_version' => 'v5.2.3',
+      'version' => '5.2.3.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'd62ec79478b55036f65e2602e282822b8eaaff0a',
+      'reference' => '89d4b176d12a2946a1ae4e34906a025b7b6b135a',
     ),
     'symfony/deprecation-contracts' => 
     array (
@@ -841,8 +841,8 @@
     ),
     'symfony/filesystem' => 
     array (
-      'pretty_version' => 'v5.2.2',
-      'version' => '5.2.2.0',
+      'pretty_version' => 'v5.2.3',
+      'version' => '5.2.3.0',
       'aliases' => 
       array (
       ),
@@ -850,12 +850,12 @@
     ),
     'symfony/finder' => 
     array (
-      'pretty_version' => 'v5.2.2',
-      'version' => '5.2.2.0',
+      'pretty_version' => 'v5.2.3',
+      'version' => '5.2.3.0',
       'aliases' => 
       array (
       ),
-      'reference' => '196f45723b5e618bf0e23b97e96d11652696ea9e',
+      'reference' => '4adc8d172d602008c204c2e16956f99257248e03',
     ),
     'symfony/polyfill-ctype' => 
     array (
@@ -913,8 +913,8 @@
     ),
     'symfony/process' => 
     array (
-      'pretty_version' => 'v5.2.2',
-      'version' => '5.2.2.0',
+      'pretty_version' => 'v5.2.3',
+      'version' => '5.2.3.0',
       'aliases' => 
       array (
       ),
@@ -931,8 +931,8 @@
     ),
     'symfony/string' => 
     array (
-      'pretty_version' => 'v5.2.2',
-      'version' => '5.2.2.0',
+      'pretty_version' => 'v5.2.3',
+      'version' => '5.2.3.0',
       'aliases' => 
       array (
       ),
@@ -940,8 +940,8 @@
     ),
     'symfony/var-dumper' => 
     array (
-      'pretty_version' => 'v5.2.2',
-      'version' => '5.2.2.0',
+      'pretty_version' => 'v5.2.3',
+      'version' => '5.2.3.0',
       'aliases' => 
       array (
       ),
@@ -958,8 +958,8 @@
     ),
     'twig/markdown-extra' => 
     array (
-      'pretty_version' => 'v3.2.1',
-      'version' => '3.2.1.0',
+      'pretty_version' => 'v3.3.0',
+      'version' => '3.3.0.0',
       'aliases' => 
       array (
       ),
@@ -967,12 +967,12 @@
     ),
     'twig/twig' => 
     array (
-      'pretty_version' => 'v3.2.1',
-      'version' => '3.2.1.0',
+      'pretty_version' => 'v3.3.0',
+      'version' => '3.3.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'f795ca686d38530045859b0350b5352f7d63447d',
+      'reference' => '1f3b7e2c06cc05d42936a8ad508ff1db7975cdc5',
     ),
     'webmozart/assert' => 
     array (
